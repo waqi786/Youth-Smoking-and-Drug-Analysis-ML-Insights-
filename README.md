@@ -6,7 +6,7 @@
 This project investigates the patterns and trends of smoking and drug use among youth, analyzing various demographic and behavioral factors that contribute to substance use. The analysis utilizes Exploratory Data Analysis (EDA) to understand key risk factors, including age, gender, social environment, and family background. Additionally, machine learning models are employed to predict the likelihood of youth engaging in smoking or drug use, providing valuable insights for prevention strategies. The aim of this project is to support efforts in reducing substance abuse through data-driven insights and predictive modeling.
 
 
-**Key Features:** 🔑
+**Key Features** 🔑
 
 1. Data Exploration: In-depth analysis of youth smoking and drug use behavior based on demographic factors, such as age, gender, and socioeconomic status.
 2. Risk Factor Identification: Identifying key influencers such as peer pressure, family habits, and environmental factors contributing to substance use among young people.
