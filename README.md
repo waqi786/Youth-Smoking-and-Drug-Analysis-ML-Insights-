@@ -16,7 +16,7 @@ This project investigates the patterns and trends of smoking and drug use among 
 6. Prevention Insights: Providing actionable recommendations to help policymakers and health organizations design targeted prevention programs based on the results.
 
 
-**Installation and Usage** ⚙️
+**Installation and Usage:** ⚙️
 
 To run this project on your local machine, follow these steps:
 
