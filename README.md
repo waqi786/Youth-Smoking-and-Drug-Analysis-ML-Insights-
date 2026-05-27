@@ -8,7 +8,7 @@ This project investigates the patterns and trends of smoking and drug use among 
 
 **Key Features:** 🔑
 
-1. Data Exploration: In-depth analysis of youth smoking and drug use behavior based on demographic factors, such as age, gender, and socioeconomic status.
+1. Data Exploration: In-depth analysis of youth smoking and drug use behavior based on demographic factors, such as age, gender and socioeconomic status.
 2. Risk Factor Identification: Identifying key influencers such as peer pressure, family habits, and environmental factors contributing to substance use among young people.
 3. Predictive Modeling: Using machine learning algorithms to predict the likelihood of smoking and drug use based on the identified factors, helping in targeted interventions.
 4. Correlation Analysis: Understanding the relationships between different factors like age, family background, and substance use to uncover key trends.
